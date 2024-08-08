@@ -77,9 +77,9 @@
                 </div>
             </form>
 
-            <p class="mb-0 mt-1">
+            {{-- <p class="mb-0 mt-1">
                 <a href="{{url('/register')}}" class="text-center">Register</a>
-            </p>
+            </p> --}}
         </div>
         <!-- /.card-body -->
     </div>
